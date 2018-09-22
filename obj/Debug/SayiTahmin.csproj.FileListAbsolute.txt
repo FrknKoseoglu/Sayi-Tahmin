@@ -1,0 +1,13 @@
+C:\CSharp-Eylul-2017\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\CSharp-Eylul-2017\SayiTahmin\obj\Debug\SayiTahmin.csprojResolveAssemblyReference.cache
+C:\CSharp-Eylul-2017\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\CSharp-Eylul-2017\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\CSharp-Eylul-2017\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\CSharp-Eylul-2017\SayiTahmin\obj\Debug\SayiTahmin.pdb
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\bin\Debug\SayiTahmin.exe
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\bin\Debug\SayiTahmin.pdb
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\obj\Debug\SayiTahmin.csprojAssemblyReference.cache
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\obj\Debug\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\obj\Debug\SayiTahmin.exe
+C:\Users\FurkanK\Desktop\Documents\Visual Studio 2015\Projects\SayiTahmin\obj\Debug\SayiTahmin.pdb
